@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="crmplus:war">
+    <output-path>$USER_HOME$/workspace/crmplus/target</output-path>
+    <root id="archive" name="crmplus-2.1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="crmplus:war exploded" />
+    </root>
+  </artifact>
+</component>
